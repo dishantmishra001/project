@@ -14,6 +14,7 @@ It is a dice rolling game.
 Open cmd prompt or Windows Powershell.
 <br>
 Clone Repository:
+    
     git clone https://github.com/dishantmishra001/project.git
 
 Enter the project directory :
